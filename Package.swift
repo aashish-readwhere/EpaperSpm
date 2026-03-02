@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "EpaperSdk",
-            url:"https://github.com/aashish-readwhere/EpaperSpm/releases/download/1.4.0/EpaperSdk.xcframework.zip",
-            checksum: "c0ec0e591dd9e4dfeca3af897cffc34e8119ed3f9aadcac18fb86c4bcce5cc82"
+            url:"https://github.com/aashish-readwhere/EpaperSpm/releases/download/1.4.1/EpaperSdk.xcframework.zip",
+            checksum: "c5a8393dd5b4a08abf80c80ccf2d779a3ff9f43a09b3b00092abbc3cc9db7659"
         )
     ]
 )
